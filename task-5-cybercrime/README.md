@@ -26,7 +26,7 @@ task-5-cybercrime/	UPI Payment Fraud Case Study and a student-focused Prevention
 
 🔹 Module 3: Collaboration & Coding Completed beginner-level challenges on HackerRank and developed a 5-question awareness quiz using Google Forms.
 
-Quiz Link: (https://docs.google.com/forms/d/e/1FAIpQLSeUkAaz7g7PAX6L_G2a4WxxFQw41b2vjKYnUOusYjtuvaYFHw/viewform?usp=header)
+Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLScxYkPzqAH4c0nyfCrwFAPfrCobTQFKA09B37z2wOOsTG4CWQ/viewform
 🔹 Module 4: Effective Communication Drafted professional correspondence for academic extensions and internship inquiries. Also compiled a checklist for responsible social media usage.
 
 🔹 Module 5: Cybersecurity Researched a detailed case study on UPI Payment Fraud and provided a 'Stay Safe Online' guide featuring the National Cyber Crime Helpline (1930) and reporting portal.
