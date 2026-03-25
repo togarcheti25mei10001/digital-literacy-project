@@ -1,14 +1,23 @@
 CSE0001: Digital Literacy Portfolio
+
 👤 Student Information
+
 Name: togarcheti venkata sai karthikeya
+
 Registration Number: 25MEI10001
+
 Branch: integrated M.Tech CSE (cyber security)
+
 University: VIT Bhopal University
+
 Role: Student Digital Ambassador
+
 🚀 Project Overview
+
 This repository contains the complete portfolio for the Digital Literacy (CSE0001) course. As a Student Digital Ambassador, my goal is to help peers navigate the digital landscape safely and professionally. This portfolio documents my journey through five key modules, ranging from digital design to cybersecurity awareness.
 
 📂 Repository Structure
+
 This project is organized into specific folders for each module as per the assignment brief:
 
 Folder / File	Description
@@ -20,6 +29,7 @@ task-4-email-etiquette/	Professional email drafts and Social Media Do's/Don'ts.
 task-5-cybercrime/	UPI Payment Fraud Case Study and a student-focused Prevention Checklist.
 
 📋 Module Summaries
+
 🔹 Module 1: Digital Awareness Created a one-page visual resource using Canva to define digital literacy and promote safe internet practices for first-year students.
 
 🔹 Module 2: Professional Identity Established a technical presence on GitHub, LinkedIn, and Kaggle. My GitHub profile includes a customized README detailing my focus on AI & ML.
@@ -32,9 +42,11 @@ Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLScxYkPzqAH4c0nyfCrwFAPfrCobT
 🔹 Module 5: Cybersecurity Researched a detailed case study on UPI Payment Fraud and provided a 'Stay Safe Online' guide featuring the National Cyber Crime Helpline (1930) and reporting portal.
 
 💡 Conclusion
+
 Through this project, I have transitioned from a digital user to a digital creator and leader. These skills in version control, professional etiquette, and online safety are foundational to my future career in Artificial Intelligence.
 
 📚 References & Tools
+
 Design: Canva
 Version Control: GitHub
 Coding: HackerRank
