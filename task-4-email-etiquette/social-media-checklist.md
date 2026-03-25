@@ -7,6 +7,7 @@ Share positive and helpful posts
 Listen to and respect other people’s views
 Use privacy settings to protect your information
 Check facts before posting or sharing anything
+
 ❌ Don’ts
 
 Avoid posting rude or inappropriate content
