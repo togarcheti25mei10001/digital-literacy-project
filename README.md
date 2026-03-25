@@ -47,7 +47,11 @@ Through this project, I have transitioned from a digital user to a digital creat
 📚 References & Tools
 
 Design: Canva
+
 Version Control: GitHub
+
 Coding: HackerRank
+
 Collaboration: Google Workspace
+
 Safety: National Cyber Crime Portal (cybercrime.gov.in)
